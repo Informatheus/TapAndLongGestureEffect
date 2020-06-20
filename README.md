@@ -1,4 +1,4 @@
-# TapAndLongGestureEffect
+# Xamarin-TapAndLongGestureEffect
 Implements Tap and LongPress/LongClick gestures for Xamarin.Forms (Android & iOS) using Command and CommandParameter.
 
 ## Install
