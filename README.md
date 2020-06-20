@@ -24,3 +24,8 @@ replacing the < namespace >.
       </View.Effects>      
 ```   
 ***Does not work on Cell objects.***
+
+
+#### Credits: https://github.com/fabriciomoreirao
+
+
